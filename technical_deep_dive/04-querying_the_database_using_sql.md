@@ -6,7 +6,7 @@
 | --- | --- |
 | .NET Core 2.1 (or greater) SDK | [/download.microsoft.com/dotnet-sdk-2.1](https://download.microsoft.com/download/E/2/6/E266C257-F7AF-4E79-8EA2-DF26031C84E2/dotnet-sdk-2.1.103-win-gs-x64.exe)
 | Visual Studio Code | [/code.visualstudio.com/download](https://go.microsoft.com/fwlink/?Linkid=852157) |
-| Azure Cosmos DB Data Migration Tool | [/cosmosdb-data-migration-tool](../files/cosmosdt.zip) |
+| Azure Cosmos DB Data Migration Tool | [/cosmosdb-data-migration-tool](https://aka.ms/AzureDocumentDBDataMigrationTool) |
 
 ## Setup
 
