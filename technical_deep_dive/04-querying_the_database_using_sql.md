@@ -16,7 +16,7 @@ Before starting any lab in this workshop, you will need to create the various Az
 
 *A JSON file has been provided that will contain a collection 50,000 students. You will use this file later to import documents into your collection.*
 
-1. Download the [students.json](../files/students.json) file and save it to your local machine.
+1. Download the students.json file to your local machine by right clicking on [this link](../files/students.json) and selecting 'save target as' or 'save link as' depending on your browser.
 
 ### Create Azure Cosmos DB Assets
 
